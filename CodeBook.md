@@ -2,7 +2,7 @@
 
 The final summary tidy dataset "tidydata.txt" contains the average of each variable for each activity and each subject from the Human Activity Recognition Using Smartphones Data Set
 
-## ___Variables in the tidy data___
+## __Variables in the tidy data__
 
 Tidy data contains 180 rows and 68 columns. Each row has averaged variables for each subject and each activity
 •subject - The ID of the test subject
@@ -11,11 +11,11 @@ Tidy data contains 180 rows and 68 columns. Each row has averaged variables for 
 The data were averaged based on subject and activity group.
 Subject column is numbered sequentially from 1 to 30. 
 
-## ___Activities___
+## __Activities__
 
 The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 variables and activity labels)
 
-### Activity column has 6 types as listed below
+### ___Activity column has 6 types as listed below___
 
 - WALKING
 - WALKING_UPSTAIRS
@@ -93,6 +93,6 @@ The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 va
 - "fBodyBodyGyroJerkMag-mean()"
 - "fBodyBodyGyroJerkMag-std()"
 
-## Variable units
+## __Variable units__
 
 Activity variable is factor type. Subject variable is integer type. All the other variables are numeric type.

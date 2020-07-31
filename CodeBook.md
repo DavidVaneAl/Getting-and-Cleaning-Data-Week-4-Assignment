@@ -24,7 +24,7 @@ The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 va
 - STANDING
 - LAYING
 
-# ___Activity labels___
+### ___Activity labels___
 
 - "tBodyAcc-mean()-X"
 - "tBodyAcc-mean()-Y"
